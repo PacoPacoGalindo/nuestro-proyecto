@@ -8,3 +8,5 @@ En nuestro README, nosotros agregaremos algunos detalles sobre nuestro proyecto:
 - Un punto que se me acaba de ocurrir
 - Otro punto más
 - Tutorial de ejecución y/o instalalación
+
+Estas son unas palabras de despedida :,)
