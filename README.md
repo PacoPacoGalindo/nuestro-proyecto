@@ -1,6 +1,8 @@
 # nuestro-proyecto
 Un proyecto colaborativo con dos personas
 
+Blah, blah, blah
+
 En nuestro README, nosotros agregaremos algunos detalles sobre nuestro proyecto:
 
 - Las características técnicas del código
